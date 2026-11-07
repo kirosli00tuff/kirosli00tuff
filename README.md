@@ -9,8 +9,8 @@
 - [PropExperiment](https://github.com/kirosli00tuff/PropExperiment): a self-running bot for prop firm funded accounts
   on CME micro futures, starting with Topstep's XFA through the TopstepX API. Every strategy is frozen before it sees
   data, and no strategy has passed yet.
-- research-archive (coming soon): 18 research projects from July to September 2026, each in its own folder with its
-  history kept and a one-page card.
+- [research-archive](https://github.com/kirosli00tuff/research-archive): 12 research projects from July to September
+  2026, each in its own folder with its history kept and a one-page card.
 
 ## How I use AI
 
